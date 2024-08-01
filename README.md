@@ -1,13 +1,13 @@
 ---
-title: Is445 Demo
-emoji: 🦀
-colorFrom: purple
-colorTo: indigo
+title: Streamlit Cookbook Code Examples
+emoji: 🏢
+colorFrom: blue
+colorTo: gray
 sdk: streamlit
-sdk_version: 1.37.0
+sdk_version: 1.36.0
 app_file: app.py
 pinned: false
-license: apache-2.0
+license: mit
 ---
 
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
