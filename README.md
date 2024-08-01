@@ -1,5 +1,5 @@
 ---
-title: Streamlit Cookbook Code Examples
+title: Example for IS445
 emoji: 🏢
 colorFrom: blue
 colorTo: gray
