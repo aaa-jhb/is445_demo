@@ -12,6 +12,8 @@ from vega_datasets import data
  
 st.title('My First Streamlit App')
 
+st.text("The URL for this app is: https://huggingface.co/spaces/jnaiman/is445_demo")
+
 source = data.seattle_weather()
 
 scale = alt.Scale(
