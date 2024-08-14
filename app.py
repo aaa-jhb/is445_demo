@@ -1,6 +1,6 @@
 # INSTRUCTIONS:
 # 1. Open a "Terminal" by: View --> Terminal OR just the "Terminal" through the hamburger menu
-# 2. run in terminal with: streamlit run test_altair_streamlit.py
+# 2. run in terminal with: streamlit run app.py
 # 3. click the "Open in Browser" link that pops up OR click on "Ports" and copy the URL
 # 4. Open a Simple Browswer with View --> Command Palette --> Simple Browser: Show
 # 5. use the URL from prior steps as intput into this simple browser
