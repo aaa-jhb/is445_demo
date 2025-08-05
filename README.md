@@ -1,5 +1,5 @@
 ---
-title: My IS445 Example ID1580
+title: Example for IS445
 emoji: 🏢
 colorFrom: blue
 colorTo: gray
